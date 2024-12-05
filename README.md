@@ -29,25 +29,7 @@
 
 > 可在赞赏留言中，留下您的作品，会一起记录到列表中哦，后续会在官网中增加赞赏列表。
 
-|WeChat|AliPay|
-|-|-|
-|<img alt="WeChat 赞赏" width="200" src="https://r2.aspoem.com/coffee/WeChat.JPG" />|<img alt="AliPay 赞赏" width='200' src="https://r2.aspoem.com/coffee/AliPay.PNG" />|
-
-### 赞赏列表
-
-| 用户   | 留言                              | 金额  |
-| ------ | --------------------------------- | ----- |
-| Leo  | 星巴克请不起，请杯瑞幸九块九吧 ☕ | +9.90 |
-| 李国宝 | 极好的，不过打算请大佬吃个桃子～  | +3.30 + 一箱桃子（他家的桃子很好吃） |
-| 海风 | 网站非常好，瑞幸走起～  | +9.90 |
-| Jonas| 大佬加油 ～| +9.9|
-| ** 志|~|+9.9|
-
 ## 许可证
 
 遵守 [GNU Affero General Public License（AGPL）3.0](./LICENSE) 版本的条款和条件。
-
-## 交流群
-
-<img src="https://github.com/user-attachments/assets/1e65ecd7-0dfc-4cd4-b1f2-c4b1f0982c9b" width="256" />
 
